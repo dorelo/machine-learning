@@ -3,8 +3,8 @@ A collection of (mostly ugly) code used for a data science competition. Includes
 Project does not contain the data files used, as they are extremely large CSVs.
 
 ## Technologies used
-Python
-Pandas
-Sklearn
-Optunity
-Matplotlib
+- Python
+- Pandas
+- Sklearn
+- Optunity
+- Matplotlib
